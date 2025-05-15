@@ -669,7 +669,7 @@ body.is-loading #banner p {
 	font-family: 'Istok Web', sans-serif;
 	font-weight: 700;
 	font-size: 36px;
-	color: #ffffff;
+	color: #111;
 }
 
 .elements-header {
@@ -727,7 +727,7 @@ body.is-loading #banner p {
 }
 
 .elements-blockquote {
-	color: #ffffff;
+	color: #111;
 }
 
 .elements-blockquote h1 {
@@ -744,13 +744,13 @@ body.is-loading #banner p {
 	font-weight: 400;
 	font-style: italic;
 	padding: 15px;
-	border-left: 2px solid #ffffff;
+	border-left: 2px solid #111;
 	font-size: 18px;
 	line-height: 30px;
 }
 
 .elements-list {
-	color: #ffffff;
+	color: #111;
 }
 
 .elements-list h1 {
